@@ -491,6 +491,7 @@ In June 2020, the Lawful Access to Encrypted Data (LAED) Act was introduced in t
 1. Zimmermann, P. (1999). Why I Wrote PGP. Retrieved from https://www.philzimmermann.com/EN/essays/WhyIWrotePGP.html
 
 1. Zimmermann, P. (2001, June 5). PGP Marks its 10th Anniversary. Retrieved from http://www.philzimmermann.com/EN/news/PGP_10thAnniversary.html
+
 <table cellpadding="0" cellspacing="0">
 	<tbody>
 		<tr>
