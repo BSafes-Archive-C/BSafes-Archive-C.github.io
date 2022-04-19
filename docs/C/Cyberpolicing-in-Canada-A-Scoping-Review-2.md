@@ -52,6 +52,8 @@ As the goal of the larger project within which this scoping review falls is to b
 
 Figure 1. Visual Presentation of the Inclusion and Exclusion Criteria
 
+![Figure 1. Visual Presentation of the Inclusion and Exclusion Criteria](https://statics.bsafes.com/images/papers/Cyberpolicing-in-Canada-A-Scoping-Review-fig-1.png)
+
 
 
 ### *Coding and Analysis*

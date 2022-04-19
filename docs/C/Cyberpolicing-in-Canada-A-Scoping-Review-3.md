@@ -45,16 +45,23 @@ As can be seen in Table 1 below, prior to 2010, we were only able to locate thre
 
 Table 1. Crosstabulation of the Year and Number of Works Located (2001-2021)
 
+![Table 1. Crosstabulation of the Year and Number of Works Located (2001-2021)](https://statics.bsafes.com/images/papers/Cyberpolicing-in-Canada-A-Scoping-Review-table-1-1.png)
+
+![Table 1. Crosstabulation of the Year and Number of Works Located (2001-2021)](https://statics.bsafes.com/images/papers/Cyberpolicing-in-Canada-A-Scoping-Review-table-1-2.png)
+
 
 While the overall volume of Canadian research on cyberpolicing and related topics is fairly low, we did observe some diversity in terms of the types of research methods employed. In particular, studies were almost evenly split between quantitative (n=7) and qualitative methods (n=8), with only one mixed methods study combining survey and interview data. Qualitative studies relied heavily on interview data, whereas quantitative typically drew on secondary data and some primary data sources by way of surveys conducted by the researchers. We also note that much of the research – both quantitative and qualitative – was descriptive and exploratory in nature. One significant concern is the lack of experimental research, a method often used in evaluative studies. This finding suggests that what is missing from research in this area are studies assessing how well specific cyberpolicing programs, policies, and practices are performing in terms of meeting program or institutional objectives.
 
 Table 2. Research Methods
 
+![Table 2. Research Methods](![Table 1. Crosstabulation of the Year and Number of Works Located (2001-2021)](https://statics.bsafes.com/images/papers/Cyberpolicing-in-Canada-A-Scoping-Review-table-2.png)
+)
 
 While policing tends to fall squarely within the field of criminology because of the technical and socially complex nature of cyber-crime and cyberpolicing, these topics are best thought of as inherently multi-disciplinary fields of study. To determine the extent to which the included studies reflected the multi-disciplinary nature of the field, we looked to the institutional affiliation of the first author. In doing so, what we observed is that all of the studies were produced by researchers working within the social sciences. Except for two studies – one by Statistics Canada (Kowalski 2002) and the other by the Canadian Policing Knowledge Network (Beesely 2021) – which are depicted under the ‘general’ disciplinary category, the remainder were largely within the domains of criminology (n=9), sociology (n=3) and legal studies (n=3). Interestingly, despite the fact that some of the studies examined explored psychological dimensions of cyberpolicing, only one study came from the field of psychology (n=1). Overall, cyber-crime and cyberpolicing emerged as explored within a total of eighteen (n=18) research domains (see Table 3). These spheres represent the disciplines/perspectives that are influencing empirics and assumptions and also expectedly driving public policy and practice.
 
 Table 3. Scholarly Fields in Which the Research was Produced
 
+![Table 3. Scholarly Fields in Which the Research was Produced](https://statics.bsafes.com/images/papers/Cyberpolicing-in-Canada-A-Scoping-Review-table-3.png)
 
 Given the international scope of the issue of cyber-crime, we expected to see Canadian researchers exploring issues related to the trans-jurisdictional nature of cyberpolicing, and thus some Canadian-focused studies that relied on the use of data from international sources. What we found is that the majority of studies used data from Canadian sources, including surveys of Canadian police services, interviews with Canadian police officers, and information collected by Statistics Canada (n=14). Only two papers – both on the effects of policing efforts on online illicit markets – contained international data (n=2).
 
@@ -76,6 +83,8 @@ In terms of frequency, the next group of topics were those that appeared in more
 Our final cluster of topics was found in one paper (n=1) each. These included ‘human trafficking,’ ‘public-private collaborations,’ ‘police prevention work,’ ‘technology issues,’‘occupational stress,’ ‘intellectual property theft,’ ‘working with victims,’ and ‘police searches’ of seized technology. It is worth noting that, although a significant issue in Canada and elsewhere, research into police investigations of cyber-mediated forms of human trafficking has drawn little attention to date. This was also the case with two other important topics: police-led ‘prevention measures’ and police ‘interactions with victims’ of cyberharms. Unsurprisingly, given that digital evidence was a primary focus of three papers (n=3), related fields such as ‘police searches’ and ‘technology issues’ also appear at least once. Lastly, the issues of ‘civilianization’ of police roles in cyber-response and investigation, police ‘digital competencies’ (required skills for specific roles), and ‘police recruitment’ each appeared in one (n=1) paper.
 
 Table 4. Topics Represented Within the Canadian Literature and Their Frequency
+
+![Table 4. Topics Represented Within the Canadian Literature and Their Frequency](https://statics.bsafes.com/images/papers/Cyberpolicing-in-Canada-A-Scoping-Review-table-4.png)
 
 ### *Missing Topics*
 
