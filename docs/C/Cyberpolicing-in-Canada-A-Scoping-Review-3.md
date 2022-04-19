@@ -54,8 +54,7 @@ While the overall volume of Canadian research on cyberpolicing and related topic
 
 Table 2. Research Methods
 
-![Table 2. Research Methods](![Table 1. Crosstabulation of the Year and Number of Works Located (2001-2021)](https://statics.bsafes.com/images/papers/Cyberpolicing-in-Canada-A-Scoping-Review-table-2.png)
-)
+![Table 2. Research Methods](https://statics.bsafes.com/images/papers/Cyberpolicing-in-Canada-A-Scoping-Review-table-2.png)
 
 While policing tends to fall squarely within the field of criminology because of the technical and socially complex nature of cyber-crime and cyberpolicing, these topics are best thought of as inherently multi-disciplinary fields of study. To determine the extent to which the included studies reflected the multi-disciplinary nature of the field, we looked to the institutional affiliation of the first author. In doing so, what we observed is that all of the studies were produced by researchers working within the social sciences. Except for two studies – one by Statistics Canada (Kowalski 2002) and the other by the Canadian Policing Knowledge Network (Beesely 2021) – which are depicted under the ‘general’ disciplinary category, the remainder were largely within the domains of criminology (n=9), sociology (n=3) and legal studies (n=3). Interestingly, despite the fact that some of the studies examined explored psychological dimensions of cyberpolicing, only one study came from the field of psychology (n=1). Overall, cyber-crime and cyberpolicing emerged as explored within a total of eighteen (n=18) research domains (see Table 3). These spheres represent the disciplines/perspectives that are influencing empirics and assumptions and also expectedly driving public policy and practice.
 
