@@ -97,7 +97,7 @@ Using a script results in potential “access” to thousands of files across th
 
 script left the network. If the modified or accessed files contain personal identifying information, the question becomes whether this automated script access is enough to trigger a data breach notification to an individual.
 
-These new threat tactics removing data by automated means using software scriptingmust be reconciled with data breach notification laws that were written in a much simpler time of cybercrime. As discussed in Part III, these laws were not drafted with these largescale automated searches in mind.
+These new threat tactics removing data by automated means using software scripting must be reconciled with data breach notification laws that were written in a much simpler time of cybercrime. As discussed in Part III, these laws were not drafted with these largescale automated searches in mind.
 
 ***
 
